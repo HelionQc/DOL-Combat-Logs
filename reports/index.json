@@ -1,0 +1,30 @@
+{
+  "colorPalette": "crimson-red",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260706-044723-ak3t",
+      "title": "Brax Play Havoc",
+      "commanders": [
+        "Brax Play Havoc"
+      ],
+      "dateStart": "2026-07-06T08:47:23.000Z",
+      "dateEnd": "2026-07-06T09:33:58.000Z",
+      "dateLabel": "7/6/2026, 4:47:23 AM - 7/6/2026, 5:33:58 AM",
+      "url": "https://HelionQc.github.io/DOL-Combat-Logs/?report=20260706-044723-ak3t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 18
+      }
+    }
+  ]
+}
