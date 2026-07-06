@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-000958-v6y4",
+      "title": "Unexpected Errör",
+      "commanders": [
+        "Unexpected Errör"
+      ],
+      "dateStart": "2026-07-01T04:09:58.000Z",
+      "dateEnd": "2026-07-01T04:48:49.000Z",
+      "dateLabel": "7/1/2026, 12:09:58 AM - 7/1/2026, 12:48:49 AM",
+      "url": "https://HelionQc.github.io/DOL-Combat-Logs/?report=20260701-000958-v6y4",
+      "summary": {
+        "borderlandsPct": 0.1,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260706-044723-ak3t",
       "title": "Brax Play Havoc",
       "commanders": [
