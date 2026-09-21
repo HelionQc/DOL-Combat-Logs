@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-001637-6xjk",
+      "title": "Unexpected Errôr",
+      "commanders": [
+        "Unexpected Errôr"
+      ],
+      "guild": {
+        "id": "153CFFED-9FCF-EF11-81A9-8FB5CFBE7766",
+        "name": "Ultimate Dominator Lounge",
+        "tag": "UD"
+      },
+      "dateStart": "2026-09-21T04:16:37.000Z",
+      "dateEnd": "2026-09-21T05:12:20.528Z",
+      "dateLabel": "9/21/2026, 12:16:37 AM - 9/21/2026, 1:12:20 AM",
+      "url": "https://HelionQc.github.io/DOL-Combat-Logs/?report=20260921-001637-6xjk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260906-221443-cc9m",
       "title": "Divineplane",
       "commanders": [
