@@ -4,6 +4,37 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260928-194516-6ape",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "B954FD9A-9599-404E-A6F6-C74648867E86",
+        "name": "Destroyers Of Legion",
+        "tag": "DOL"
+      },
+      "dateStart": "2026-09-28T23:45:16.000Z",
+      "dateEnd": "2026-09-29T00:46:23.243Z",
+      "dateLabel": "9/28/2026, 7:45:16 PM - 9/28/2026, 8:46:23 PM",
+      "url": "https://HelionQc.github.io/DOL-Combat-Logs/?report=20260928-194516-6ape",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260921-001637-6xjk",
       "title": "Unexpected Errôr",
       "commanders": [
