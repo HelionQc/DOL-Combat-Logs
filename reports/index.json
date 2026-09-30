@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260929-194759-7w2k",
+      "title": "Expected Shroud",
+      "commanders": [
+        "Expected Shroud"
+      ],
+      "guild": {
+        "id": "B954FD9A-9599-404E-A6F6-C74648867E86",
+        "name": "Destroyers Of Legion",
+        "tag": "DOL"
+      },
+      "dateStart": "2026-09-29T23:47:59.000Z",
+      "dateEnd": "2026-09-30T00:20:09.346Z",
+      "dateLabel": "9/29/2026, 7:47:59 PM - 9/29/2026, 8:20:09 PM",
+      "url": "https://HelionQc.github.io/DOL-Combat-Logs/?report=20260929-194759-7w2k",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260928-194516-6ape",
       "title": "Unknown Commander",
       "commanders": [],
