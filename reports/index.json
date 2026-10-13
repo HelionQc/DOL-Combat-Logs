@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261012-200841-wzb3",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "1BC041CA-7807-4B64-BC24-D017F09EFD08",
+        "name": "Wrecking",
+        "tag": "Krew"
+      },
+      "dateStart": "2026-10-13T00:08:41.000Z",
+      "dateEnd": "2026-10-13T01:42:44.360Z",
+      "dateLabel": "10/12/2026, 8:08:41 PM - 10/12/2026, 9:42:44 PM",
+      "url": "https://HelionQc.github.io/DOL-Combat-Logs/?report=20261012-200841-wzb3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260930-001146-c3bh",
       "title": "Expected Shroud, Unexpected Errôr",
       "commanders": [
