@@ -5,9 +5,48 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261019-192837-vver",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "B954FD9A-9599-404E-A6F6-C74648867E86",
+        "name": "Destroyers Of Legion",
+        "tag": "DOL"
+      },
+      "dateStart": "2026-10-19T23:28:37.000Z",
+      "dateEnd": "2026-10-20T00:03:31.181Z",
+      "dateLabel": "10/19/2026, 7:28:37 PM - 10/19/2026, 8:03:31 PM",
+      "url": "https://HelionQc.github.io/DOL-Combat-Logs/?report=20261019-192837-vver",
+      "publishedBy": "HelionQc",
+      "summary": {
+        "borderlandsPct": 0.9863013698630136,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 40,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261018-212019-g3n1",
       "title": "Hádán",
