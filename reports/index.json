@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261020-200404-v2ie",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "B954FD9A-9599-404E-A6F6-C74648867E86",
+        "name": "Destroyers Of Legion",
+        "tag": "DOL"
+      },
+      "dateStart": "2026-10-21T00:04:04.000Z",
+      "dateEnd": "2026-10-21T00:38:27.355Z",
+      "dateLabel": "10/20/2026, 8:04:04 PM - 10/20/2026, 8:38:27 PM",
+      "url": "https://HelionQc.github.io/DOL-Combat-Logs/?report=20261020-200404-v2ie",
+      "publishedBy": "HelionQc",
+      "summary": {
+        "borderlandsPct": 0.057971014492753624,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 65,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20261019-192837-vver",
       "title": "Hádán",
       "commanders": [
